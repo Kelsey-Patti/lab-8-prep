@@ -1,0 +1,4 @@
+1. (200, 150), (600, 150), (200, 450)
+2. a buffer would store all coordinates like the minimum and maximum x coordinate and the minimum and maxium y coordinates. 
+   Then, instead of storing all the points, you can recreate them with indexing. 
+3. (0.625, 0.502)
